@@ -1,0 +1,63 @@
+html{
+    
+
+   background-repeat:no-repeat;
+   background-position:center;
+   background-attachment:fixed;
+   background-size:cover;
+}
+
+.common{
+   background-image:
+   url(media/blankeurope.PNG);
+}
+
+.Russia{
+    background-image:
+   url(media/russiaHigh.jpg);
+}
+
+.Ukraine{
+    background-image:
+   url(media/405350-izyskannaya-karta-ukrainy.jpg);
+}
+
+.France{
+    background-image:
+   url(media/grey-france-map-free-vector.jpg);
+}
+
+.Spain{
+    background-image:
+    url(media/mapa-espania.jpg)
+}
+
+.Sweden{
+    background-image:
+    url(media/sweden-gray-map-with-provinces-vector-illustration_601298-16401.avif)
+}
+
+.Germany{
+    background-image:
+    url(media/map-germany-with-regions-vector-20696075.jpg)
+}
+
+.Finland{
+    background-image:
+    url(media/outline-political-map-finland-high-260nw-2137267285.jpg)
+}
+
+.Norway{
+    background-image:
+    url(04507d58e99f282cc8a75745b621be1a.jpg)
+}
+
+.Poland{
+    background-image:
+    url(media/map-of-poland-vector-5914295.jpg)
+}
+
+.Italy{
+    background-image:
+    url(media/shutterstock_419503312.jpg)
+}
